@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DevJobs/static/css/main.d603b91f.chunk.css",
+    "main.js": "/DevJobs/static/js/main.e5a86dd4.chunk.js",
+    "main.js.map": "/DevJobs/static/js/main.e5a86dd4.chunk.js.map",
+    "runtime-main.js": "/DevJobs/static/js/runtime-main.8fea701b.js",
+    "runtime-main.js.map": "/DevJobs/static/js/runtime-main.8fea701b.js.map",
+    "static/js/2.6d0adf02.chunk.js": "/DevJobs/static/js/2.6d0adf02.chunk.js",
+    "static/js/2.6d0adf02.chunk.js.map": "/DevJobs/static/js/2.6d0adf02.chunk.js.map",
+    "index.html": "/DevJobs/index.html",
+    "precache-manifest.87860fb520c53f1b7b41e0ae4568a892.js": "/DevJobs/precache-manifest.87860fb520c53f1b7b41e0ae4568a892.js",
+    "service-worker.js": "/DevJobs/service-worker.js",
+    "static/css/main.d603b91f.chunk.css.map": "/DevJobs/static/css/main.d603b91f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fea701b.js",
+    "static/js/2.6d0adf02.chunk.js",
+    "static/css/main.d603b91f.chunk.css",
+    "static/js/main.e5a86dd4.chunk.js"
+  ]
+}
